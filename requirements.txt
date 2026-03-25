@@ -1,0 +1,9 @@
+gradio>=4.0.0
+openai-whisper
+sentence-transformers
+rouge-score
+opencv-python
+requests
+imageio-ffmpeg
+numpy
+torch
